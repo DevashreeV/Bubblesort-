@@ -22,3 +22,5 @@ d. The procedure is carried out till the last component.
 a.The input item at index 0 is sorted in ascending order during the first iteration of the Bubble Sort, and this procedure is then repeated until all inputs have been sorted. 
 
 b.There would thus be four further iterations of the bubble sort to complete on a dataset with five items after the initial one.
+
+
